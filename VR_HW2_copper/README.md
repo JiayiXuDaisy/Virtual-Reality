@@ -13,6 +13,7 @@ Gouraud shading is an interpolation method to produce continuous shading of surf
 <center>
     Fig.1 The screenshot of the implemented gouraud shader 
 </center>
+
 #### Task 2:  Implement Phong Shading
 
 Phong  shading is an normal-vector interpolation technique for surface shading. It interpolateds surface normals across rasterized polygons and compute pixel colors based on the interpolated normals and Phong lighting.
